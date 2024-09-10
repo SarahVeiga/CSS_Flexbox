@@ -10,14 +10,14 @@
         margin: 0;
         text-align: center;
         padding: 10px;
-        color: black;
+        color: plum;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     
     header {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         text-align: center;
-        color: #4a795d;
+        color: white;
         padding: 30px;
         background-color:pink;
     }
@@ -36,7 +36,7 @@
     footer {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-weight: bolder;
-        background-color: black;
+        background-color: lightblue;
         color: white;
         padding: 15px;
         text-align: center;
@@ -44,7 +44,7 @@
     
     .products {
         background-color: white;
-        border: 1px solid black;
+        border: 1px solid plum;
         padding: 20px;
         margin-bottom: 20px;
         /* transformando em container */
